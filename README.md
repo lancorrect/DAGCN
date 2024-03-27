@@ -15,7 +15,7 @@ To install requirements, run `pip install -r requirements.txt`.
 
 To train the DAGCN model, run:
 
-`sh ./run.sh`
+`sh run.sh`
 
 # Credits
 
